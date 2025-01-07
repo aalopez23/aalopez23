@@ -38,8 +38,8 @@ I have a passion for creating beautiful web apps – I'm always looking for new 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Antonio's Github Stats](https://github-readme-stats.vercel.app/api?username=jasonfyw&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
-![Antonio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonfyw&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
+![Antonio's Github Stats](https://github-readme-stats.vercel.app/api?username=aalopez23&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
+![Antonio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalopez23w&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
 
 
 ## Socials
