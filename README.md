@@ -46,4 +46,4 @@ I have a passion for creating beautiful web apps – I'm always looking for new 
 Feel free to reach out!
 
 <a href="https://www.linkedin.com/in/antoniolopez2003/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)</a>
-<a href="mailto:jasonwang0610@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="mailto:antonio.lopez.swe@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
