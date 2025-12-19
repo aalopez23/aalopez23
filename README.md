@@ -48,7 +48,7 @@ I have a passion for creating beautiful web apps and automating workflows – I'
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Antonio's Github Stats](https://github-readme-stats.vercel.app/api?username=aalopez23&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
+<!--![Antonio's Github Stats](https://github-readme-stats.vercel.app/api?username=aalopez23&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)-->
 ![Antonio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalopez23&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
 
 
