@@ -51,28 +51,6 @@ I have a passion for creating beautiful web apps and automating workflows – I'
 ![Antonio's Github Stats](https://github-readme-stats.vercel.app/api?username=aalopez23&hide=contribs&include_all_commits=true&show_icons=true&theme=nord)
 ![Antonio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalopez23&layout=compact&theme=nord&hide=html,css,jupyter%20notebook&size_weight=0.6&count_weight=0.5)
 
-## Featured Projects
-
-### LA County Dashboard
-**Tech:** ReactJS | TypeScript | Vite | TailwindCSS
-
-Full-stack employee self-service portal with role-based authentication for time-off management and employee directory. Implemented protected routes and dashboard visualizations deployed with CI/CD pipeline configuration.
-
-[🌐 Website](link) | [📂 Source Code](link)
-
-### FitByte - Fitness Tracker
-**Tech:** ReactJS | NodeJS | TypeScript | Supabase | PostgreSQL
-
-Full-stack web application allowing users to log workouts, track nutrition, and monitor fitness progress with interactive data visualizations and analytics. Developed secure user authentication, authorization, and database design using Supabase (PostgreSQL) with Row Level Security policies, RESTful APIs, and CRUD operations.
-
-[🌐 Website](link) | [📂 Source Code](link)
-
-### Hiring Automation Bot
-**Tech:** Python | Selenium | Pandas | spaCy | NLP
-
-Built a Selenium-powered web scraper to automate candidate data collection from multiple hiring platforms, eliminating 15 hours per week of manual data entry. Developed Python algorithms with NLP to evaluate, categorize, and rank applicants, streamlining the hiring pipeline and reducing time-to-hire by 30%.
-
-[📂 Source Code](https://github.com/aalopez23/your-repo-name)
 
 ## Socials
 Feel free to reach out!
